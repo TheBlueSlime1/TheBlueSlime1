@@ -1,0 +1,3 @@
+- I’m TheBlueSlime
+- Working on learning python
+- Currently making Minecraft To Grab Converter
